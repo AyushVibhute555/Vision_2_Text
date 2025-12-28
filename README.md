@@ -187,3 +187,7 @@ Multilingual caption support
 👤 Author
 Ayush Vibhute
 GitHub: https://github.com/AyushVibhute555
+
+#output
+https://github.com/AyushVibhute555/Vision_2_Text/blob/main/UI.png
+
