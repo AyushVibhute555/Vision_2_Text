@@ -168,51 +168,11 @@ Copy code
 
 📈 Future Enhancements
 Beam search for improved captions
-
 Cloud deployment (Render / Hugging Face)
-
 Mobile-first responsive UI
-
 Multilingual caption support
 
-🎓 Resume & Interview Value
-This project demonstrates:
-
-Deep Learning (CNN + RNN)
-
-TensorFlow & Keras model development
-
-REST API design with Flask
-
-Frontend-backend integration
-
-Real-world debugging & optimization
-
-Relevant for roles:
-
-AI / ML Engineer
-
-Software Engineer
-
-Full Stack Developer
-
-Data Scientist (Applied ML)
 
 👤 Author
 Ayush Vibhute
 GitHub: https://github.com/AyushVibhute555
-
-⭐ If you found this project useful, consider starring the repository.
-
-yaml
-Copy code
-
----
-
-If you want next, I can:
-- Add **GitHub badges**
-- Create **resume bullet points**
-- Prepare **interview explanation**
-- Help with **deployment**
-
-Just tell me 👌
