@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AI Image Caption Generator</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<div class="app">
+    <div class="card">
+        <h1>🧠 AI Image Caption Generator</h1>
+        <p class="subtitle">Upload an image and let AI describe it</p>
+
+        <input type="file" id="imageInput" accept="image/*">
+
+        <div class="preview">
+            <img id="previewImage">
+        </div>
+
+        <button id="generateBtn" onclick="uploadImage()">
+            ✨ Generate Caption
+        </button>
+
+        <div class="loader" id="loading"></div>
+
+        <div class="result" id="result"></div>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+
+dataset/Flickr8k/Images/
+dataset/Flickr8k/*.zip
+
+backend/uploads/
+backend/model/image_features.pkl
+backend/model/caption_model.h5
