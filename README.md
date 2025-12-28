@@ -88,31 +88,42 @@ Python, Flask, TensorFlow, Keras, CNN (VGG16), LSTM, HTML, CSS, JavaScript, Flic
 
 ## 📂 Project Structure
 
+## 📂 Project Structure
+
+```text
 VisionNarrate/
 │
-├── backend/
-│ ├── app.py
-│ ├── utils/
-│ │ └── caption_generator.py
-│ ├── model/
-│ │ ├── caption_model.h5
-│ │ └── tokenizer.pkl
-│ └── uploads/
+├── backend/                    # Backend (Flask + AI Inference)
+│   ├── __init__.py
+│   ├── app.py                  # Flask API entry point
+│   │
+│   ├── utils/                  # Utility modules
+│   │   ├── __init__.py
+│   │   └── caption_generator.py   # Image caption generation logic
+│   │
+│   ├── model/                  # Trained model artifacts
+│   │   ├── caption_model.h5
+│   │   └── tokenizer.pkl
+│   │
+│   └── uploads/                # Temporarily stores uploaded images
 │
-├── frontend/
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
+├── frontend/                   # Frontend (UI Layer)
+│   ├── index.html              # Main UI page
+│   ├── style.css               # Styling & animations
+│   └── script.js               # Client-side logic & API calls
 │
-├── screenshots/
-│ └── ui-demo.png
+├── dataset/                    # Dataset (not pushed to GitHub)
+│   └── Flickr8k/
+│       ├── Images/
+│       └── captions.txt
 │
-└── README.md
+├── screenshots/                # UI & output screenshots
+│   └── ui-demo.png
+│
+├── .gitignore                  # Git ignored files
+├── requirements.txt            # Python dependencies
+└── README.md                   # Project documentation
 
-yaml
-Copy code
-
----
 
 ## ⚙️ Setup & Installation
 
