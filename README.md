@@ -86,7 +86,7 @@ Python, Flask, TensorFlow, Keras, CNN (VGG16), LSTM, HTML, CSS, JavaScript, Flic
 
 ---
 
-## 📂 Project Structure
+
 
 ## 📂 Project Structure
 
