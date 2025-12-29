@@ -123,12 +123,12 @@ VisionNarrate/
 ├── .gitignore                  # Git ignored files
 ├── requirements.txt            # Python dependencies
 └── README.md                   # Project documentation
-
+```
 
 ## ⚙️ Setup & Installation
 
 ### 1️⃣ Clone Repository
-```bash
+```
 git clone https://github.com/your-username/VisionNarrate-AI-Image-Caption-Generator.git
 cd VisionNarrate-AI-Image-Caption-Generator
 2️⃣ Create Virtual Environment
@@ -186,8 +186,9 @@ Multilingual caption support
 
 👤 Author
 Ayush Vibhute
-GitHub: https://github.com/AyushVibhute555 ```
+GitHub: https://github.com/AyushVibhute555
+```
 
-#output
+#Output
 https://github.com/AyushVibhute555/Vision_2_Text/blob/main/UI.png
 
