@@ -126,9 +126,8 @@ VisionNarrate/
 ```
 
 ## ⚙️ Setup & Installation
-
-### 1️⃣ Clone Repository
 ```
+1️⃣ Clone Repository
 git clone https://github.com/your-username/VisionNarrate-AI-Image-Caption-Generator.git
 cd VisionNarrate-AI-Image-Caption-Generator
 2️⃣ Create Virtual Environment
@@ -189,6 +188,7 @@ Ayush Vibhute
 GitHub: https://github.com/AyushVibhute555
 ```
 
-#Output
-https://github.com/AyushVibhute555/Vision_2_Text/blob/main/UI.png
+## Output
+
+<img width="1643" height="1007" alt="Screenshot 2025-12-28 122016" src="https://github.com/user-attachments/assets/30daf9d9-5e5c-4d56-a80f-0dc6fe3e1b41" />
 
