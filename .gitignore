@@ -1,0 +1,60 @@
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Virtual Environment
+# =========================
+venv/
+env/
+.venv/
+
+# =========================
+# Model Files (IMPORTANT)
+# =========================
+backend/model/caption_model.h5
+backend/model/image_features.pkl
+
+# =========================
+# Uploads (runtime files)
+# =========================
+backend/uploads/
+
+# =========================
+# Dataset (VERY LARGE)
+# =========================
+dataset/
+dataset/Flickr8k/
+dataset/Flickr8k/Images/
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Node (if used)
+# =========================
+node_modules/
+
+# =========================
+# Environment variables
+# =========================
+.env
